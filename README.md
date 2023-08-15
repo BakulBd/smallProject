@@ -34,7 +34,7 @@ This project is licensed under the MIT License. See the <a href="LICENSE">LICENS
 Feel free to reach out for questions, suggestions, or collaboration opportunities!
 
 - 📷 Instagram: <a href="https://instagram.com/cyberbokul" style="color:red">@cyberbokul</a>
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/yourname/" style="color:red">Your Name</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/cyberbokul/" style="color:red">Bakul Ahmed</a>
 - 📁 GitHub: <a href="https://github.com/bakul3014" style="color:red">Bakul Ahmed</a>
 
 Explore, modify, and use the code for your personal or educational purposes!
