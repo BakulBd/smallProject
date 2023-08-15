@@ -37,12 +37,9 @@ int main() {
 
         // Check if the current time matches the alarm time
         if (h == hour && m == min && s == second) {
-            // Clear the screen and display the alarm message
-            clrscr();
-            printf("ALARM!! %02d : %02d : %02d", h, m, s);
+            clrscr(); // Clear the screen before displaying the alarm message
+            printf("ALARM!! %02d : %02d : %02d\n", h, m, s);
             break;  // Exit the loop when the alarm time is reached
-        } else {
-            clrscr();  // Clear the screen for the next display
         }
 
         // Update seconds, minutes, and hours
@@ -57,6 +54,7 @@ int main() {
         }
 
         sleep(1);  // Sleep for 1 second before updating the time
+        clrscr();  // Clear the screen for the next display
     }
 
     return 0;
