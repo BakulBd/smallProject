@@ -1,3 +1,6 @@
+![Project Logo](https://u-static.fotor.com/images/text-to-image/result/PRO-4e1a1136c0c44469aa0473040b7128c1.jpg)
+
+
 # 🕰️ Digital Clock with Alarm
 
 This C program implements a digital clock with an alarm feature. The clock displays the time in hours, minutes, and seconds, and allows you to set an alarm time. Once the alarm time matches the current time on the clock, an alarm message is displayed.
@@ -35,4 +38,5 @@ Feel free to reach out for questions, suggestions, or collaboration opportunitie
 - 📁 GitHub: <a href="https://github.com/bakul3014" style="color:red">Bakul Ahmed</a>
 
 Explore, modify, and use the code for your personal or educational purposes!
-
+---
+<kbd style="background-color: #00FF00; padding: 5px;">Note:</kbd> This project is intended for those just starting out with C programming. It might not be as polished as you'd expect, but it serves as a foundational stepping stone for beginners. Your feedback and contributions are welcome as you embark on this programming journey!
