@@ -1,16 +1,16 @@
-# Digital Clock with Alarm
+# 🕰️ Digital Clock with Alarm
 
 This C program implements a digital clock with an alarm feature. The clock displays the time in hours, minutes, and seconds, and allows you to set an alarm time. Once the alarm time matches the current time on the clock, an alarm message is displayed.
 
-## 🕒 Features
+## 🌟 Features
 
-- Set the current time and an alarm time (hour, minute, and second).
-- Displays the current time in a digital clock format.
-- When the current time matches the alarm time, an alarm message is shown.
-- Supports clearing the screen for a clean display on both Windows and non-Windows platforms.
-- Time conversion functions to convert seconds to milliseconds or microseconds for sleeping.
+- Set the current time ⏰ and an alarm time ⏰ (hour, minute, and second).
+- Displays the current time in a digital clock format 🕒.
+- When the current time matches the alarm time, an alarm message is shown 🔔.
+- Supports clearing the screen for a clean display on both Windows and non-Windows platforms 🧹.
+- Time conversion functions to convert seconds to milliseconds or microseconds for sleeping ⏱️.
 
-## <span style="color:red">▶️ Usage</span>
+## <span style="color:red">🚀 Usage</span>
 
 1. <span style="color:red"><b>Compile</b></span> the code using a C compiler (e.g., <code>gcc</code>).
 2. <span style="color:red"><b>Run</b></span> the compiled executable.
@@ -30,12 +30,9 @@ This project is licensed under the MIT License. See the <a href="LICENSE">LICENS
 
 Feel free to reach out for questions, suggestions, or collaboration opportunities!
 
-- 🐦 Twitter: <a href="https://twitter.com/YourTwitterHandle" style="color:red">@YourTwitterHandle</a>
+- 📷 Instagram: <a href="https://instagram.com/cyberbokul" style="color:red">@cyberbokul</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/yourname/" style="color:red">Your Name</a>
-- 📁 GitHub: <a href="https://github.com/YourGitHubUsername" style="color:red">YourGitHubUsername</a>
+- 📁 GitHub: <a href="https://github.com/bakul3014" style="color:red">Bakul Ahmed</a>
 
 Explore, modify, and use the code for your personal or educational purposes!
 
----
-
-**Note:** Make sure to replace placeholders like <span style="color:red">`YourTwitterHandle`</span>, <span style="color:red">`Your Name`</span>, and <span style="color:red">`YourGitHubUsername`</span> with your actual social media IDs and information.
