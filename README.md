@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/username/your-repo-name/master/assets/icon.png" alt="Project Logo" width="200](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/team-machine-logo-team-machine-gear.jpg">
+  <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/team-machine-logo-team-machine-gear.jpg">
 </div>
 
 <h1 align="center">Mini Projects Showcase</h1>
