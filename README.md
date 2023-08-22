@@ -42,4 +42,4 @@ Feel free to reach out for questions, suggestions, or collaboration opportunitie
 
 Explore, modify, and use the code for your personal or educational purposes!
 ---
-<kbd style="background-color: #00FF00; padding: 5px;">Note:</kbd> This project is intended for those just starting out with C programming. It might not be as polished as you'd expect, but it serves as a foundational stepping stone for beginners. Your feedback and contributions are welcome as you embark on this programming journey!
+<kbd style="background-color: #00FF00; padding: 5px;">Note:</kbd> This project is intended for those just starting out with  programming. It might not be as polished as you'd expect, but it serves as a foundational stepping stone for beginners. Your feedback and contributions are welcome as you embark on this programming journey!
