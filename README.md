@@ -1,29 +1,32 @@
-![Project Logo](https://u-static.fotor.com/images/text-to-image/result/PRO-4e1a1136c0c44469aa0473040b7128c1.jpg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/username/your-repo-name/master/assets/icon.png" alt="Project Logo" width="200">
+</div>
 
+<h1 align="center">Mini Projects Showcase</h1>
 
-# 🕰️ Digital Clock with Alarm
+<p align="center">
+  <em>🚀 Discover the Magic of Coding with Bite-sized Projects! 🚀</em>
+</p>
 
-This C program implements a digital clock with an alarm feature. The clock displays the time in hours, minutes, and seconds, and allows you to set an alarm time. Once the alarm time matches the current time on the clock, an alarm message is displayed.
+<p align="center">
+  <a href="#projects">🔥 Projects</a> •
+  <a href="#getting-started">🚀 Getting Started</a> •
+  <a href="#contributions">💡 Contributions</a> •
+  <a href="#license">📜 License</a> •
+  <a href="#contact">💌 Contact</a>
+</p>
 
-## 🌟 Features
+<p align="center">
+  <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-red.svg" alt="Made with love">
+</p>
 
-- Set the current time ⏰ and an alarm time ⏰ (hour, minute, and second).
-- Displays the current time in a digital clock format 🕒.
-- When the current time matches the alarm time, an alarm message is shown 🔔.
-- Supports clearing the screen for a clean display on both Windows and non-Windows platforms 🧹.
-- Time conversion functions to convert seconds to milliseconds or microseconds for sleeping ⏱️.
+## Projects
 
-## <span style="color:red">🚀 Usage</span>
+🛠️ Dive into these hands-on projects, designed to make learning fun and engaging:
 
-1. <span style="color:red"><b>Compile</b></span> the code using a C compiler (e.g., <code>gcc</code>).
-2. <span style="color:red"><b>Run</b></span> the compiled executable.
-3. <span style="color:red"><b>Enter</b></span> the current time and alarm time when prompted.
-4. <span style="color:red"><b>Watch</b></span> the clock display the time and receive an alarm message when the alarm time is reached.
-
-## 📜 Requirements
-
-- C compiler (<code>gcc</code> recommended)
-- Windows (for Windows-specific clearing) or a POSIX-compliant system
+- 🧮 **General Calculator**: A user-friendly calculator for basic arithmetic operations.
+- ⏱️ **Stopwatch**: An elegant stopwatch for precise time measurement.
+- 📅 **Calendar**: A minimalist calendar to keep track of events.
 
 ## 📝 License
 
