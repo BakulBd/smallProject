@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/team-machine-logo-team-machine-gear.jpg">
+  <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/team-machine-logo-team-machine-gear.jpg" width="200" alt="Project Logo">
 </div>
 
 <h1 align="center">Mini Projects Showcase</h1>
