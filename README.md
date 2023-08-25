@@ -12,7 +12,7 @@
   <a href="#projects">🔥 Projects</a> •
   <a href="#getting-started">🚀 Getting Started</a> •
   <a href="#contributions">💡 Contributions</a> •
-  <a href="#license">📜 License</a> •
+  <a href="#License">📜 License</a> •
   <a href="#contact">💌 Contact</a>
 </p>
 
@@ -40,7 +40,9 @@ Feel free to reach out for questions, suggestions, or collaboration opportunitie
 - 📷 Instagram: <a href="https://instagram.com/cyberbokul" style="color:red">@cyberbokul</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/cyberbokul/" style="color:red">Bakul Ahmed</a>
 - 📁 GitHub: <a href="https://github.com/bakul3014" style="color:red">Bakul Ahmed</a>
+##contact
 
 Explore, modify, and use the code for your personal or educational purposes!
 ---
+##contributions
 <kbd style="background-color: #00FF00; padding: 5px;">Note:</kbd> This project is intended for those just starting out with  programming. It might not be as polished as you'd expect, but it serves as a foundational stepping stone for beginners. Your feedback and contributions are welcome as you embark on this programming journey!
