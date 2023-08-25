@@ -27,6 +27,7 @@
 - 🧮 **General Calculator**: A user-friendly calculator for basic arithmetic operations.
 - ⏱️ **Stopwatch**: An elegant stopwatch for precise time measurement.
 - 📅 **Calendar**: A minimalist calendar to keep track of events.
+- 📅 **NumberGuessGame**: The Number Guessing Game challenges players to guess a randomly generated number within a range. Players receive "Very High" or "Very Low" hints, aiming to guess correctly in minimum attempts.
 
 ## 📝 License
 
